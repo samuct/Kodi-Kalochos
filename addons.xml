@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<addons>
+<addon id="plugin.video.alfa" name="[COLOR red]Kodi-Kalochos REPO[/COLOR]" version="1.0.5" provider-name="samuct">
+    <extension point="xbmc.addon.repository" name="Kodi-Kalochos">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/samuct/Kodi-Kalochos/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/plugin.video.alpha/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi Kalochos REPO</summary>
+        <description>Repositorio Oficial de Kodi Kalochos - Este es un repositorio privado, no colgamos nada para su distribución, por lo que todo lo que aquí subimos es puramente didáctico y no nos hacemos responsables de su mal uso o su distribución.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+
+<addon id="plugin.video.cristalazul" name="[COLOR red]Kodi-Kalochos REPO[/COLOR]" version="0.0.7" provider-name="samuct">
+    <extension point="xbmc.addon.repository" name="Kodi-Kalochos">
+        <dir>
+            <info compressed="false">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/samuct/Kodi-Kalochos/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/plugin.video.cristalazul/</datadir>
+        </dir>
+    </extension>
+    <extension point="xbmc.addon.metadata">
+        <summary>Kodi Kalochos REPO</summary>
+        <description>Repositorio Oficial de Kodi Kalochos - Este es un repositorio privado, no colgamos nada para su distribución, por lo que todo lo que aquí subimos es puramente didáctico y no nos hacemos responsables de su mal uso o su distribución.</description>
+        <disclaimer></disclaimer>
+        <platform>all</platform>
+        <assets>
+            <icon>icon.png</icon>
+            <fanart>fanart.jpg</fanart>
+        </assets>
+    </extension>
+</addon>
+</addons>
