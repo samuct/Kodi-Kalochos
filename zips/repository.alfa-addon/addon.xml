@@ -1,14 +1,14 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
-<addon id="plugin.video.alfa" name="[COLOR red]Kodi-Kalochos REPO[/COLOR]" version="1.0.5" provider-name="samuct">
+<addon id="repository.alfa-addon" name="[COLOR red]Kodi-Kalochos REPO[/COLOR]" version="1.0.5" provider-name="samuct">
     <extension point="xbmc.addon.repository" name="Kodi-Kalochos">
         <dir>
-            <info compressed="false">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/addons.xml</info>
-            <checksum>https://raw.githubusercontent.com/samuct/Kodi-Kalochos/addons.xml.md5</checksum>
-            <datadir zip="true">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/plugin.video.alpha/</datadir>
+            <info compressed="false">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/master/zips/addons.xml</info>
+            <checksum>https://raw.githubusercontent.com/samuct/Kodi-Kalochos/master/zips/addons.xml.md5</checksum>
+            <datadir zip="true">https://raw.githubusercontent.com/samuct/Kodi-Kalochos/master/zips/</datadir>
         </dir>
     </extension>
     <extension point="xbmc.addon.metadata">
-        <summary>Kodi Kalochos REPO</summary>
+        <summary>[COLOR red]Kodi-Kalochos REPO[/COLOR]</summary>
         <description>Repositorio Oficial de Kodi Kalochos - Este es un repositorio privado, no colgamos nada para su distribución, por lo que todo lo que aquí subimos es puramente didáctico y no nos hacemos responsables de su mal uso o su distribución.</description>
         <disclaimer></disclaimer>
         <platform>all</platform>
@@ -16,5 +16,6 @@
             <icon>icon.png</icon>
             <fanart>fanart.jpg</fanart>
         </assets>
+		<source>https://www.github.com/samuct/Kodi-Kalochos/</source>
     </extension>
 </addon>
